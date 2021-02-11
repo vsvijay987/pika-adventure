@@ -1,0 +1,19 @@
+{
+  "name": "pika",
+  "version": "1.0.0",
+  "description": "pika adventure web game",
+  "main": "script.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Vijay Sahu",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  },
+  "dependencies": {
+    "core-js": "^3.8.3",
+    "regenerator-runtime": "^0.13.7"
+  }
+}
